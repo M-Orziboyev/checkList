@@ -5,6 +5,9 @@ ovqat = input('Nima ovqat yeysiz?>>>')
 'manti' in menyu #menyuda manti bormi?
 
 #natija: FALSE
+'shashlik' in menyu #menyuda manti bormi?
+
+#natija: TRUE
 
 'osh' in menyu; #menyuda osh bormi
 
